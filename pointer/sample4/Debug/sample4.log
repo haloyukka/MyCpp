@@ -1,0 +1,17 @@
+﻿Build started 2014/07/28 18:55:53.
+     1>Project "C:\Users\tsp7004\Desktop\takahashi\Study\VC++\sample4\sample4.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\sample4.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\tsp7004\desktop\takahashi\study\vc++\sample4\main.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\tsp7004\desktop\takahashi\study\vc++\sample4\main.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\tsp7004\desktop\takahashi\study\vc++\sample4\main.c(25): error C2181: illegal else without matching if
+     1>Done Building Project "C:\Users\tsp7004\Desktop\takahashi\Study\VC++\sample4\sample4.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.10
